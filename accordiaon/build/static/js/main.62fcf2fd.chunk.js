@@ -1,0 +1,2 @@
+(this.webpackJsonpreminder=this.webpackJsonpreminder||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var r=t(0),c=t.n(r),o=t(2),a=t.n(o);t(8);var u=function(){return c.a.createElement("h2",null,"accordion project setup")};a.a.render(c.a.createElement(c.a.StrictMode,null,c.a.createElement(u,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.62fcf2fd.chunk.js.map
